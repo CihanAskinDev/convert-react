@@ -1,0 +1,16 @@
+body {
+  background-color:pink ;
+  padding: 2rem;
+}
+
+table {
+  min-width: 80 vw;
+}
+
+td {
+  padding: 4px;
+}
+
+thead {
+  font-weight: bold;
+}
